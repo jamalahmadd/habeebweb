@@ -1,0 +1,615 @@
+ <!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]><html dir="rtl" lang="ar" class="ie8"><![endif]-->
+<!--[if IE 9 ]><html dir="rtl" lang="ar" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html dir="rtl" lang="ar">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>متجر المركز المتميز </title>
+<base href="https://store.mffsystems.com/" />
+<meta name="description" content="متجر المركز المتميز اول متجر إلكتروني لبيع منتجات الأمن الصناعي ، أنظمة الإنذار و الاطفاء ، كاميرات المراقبة ، مستلزمات الأمن الصناعي ، صيانة طفايات الحريق " />
+<meta name="keywords" content="صيانة اجهزة إطفاء الحريق  توريد طفايات الحريق , طلمبات الحريق , بافاريا , مصانع حربية , متيوري , مهمات الأمن الصناعي , أنظمة الإنذار و الاطفاء , كاميرات المراقبة" />
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css" />
+<link href="catalog/view/theme/default/stylesheet/jquery.fancybox.min.css" rel="stylesheet" type="text/css" />
+<link href="catalog/view/javascript/bootstrap/css/bootstrap-a.css" rel="stylesheet" media="screen" />
+<link href="catalog/view/theme/default/stylesheet/stylesheet-ar.css" rel="stylesheet">
+<link href="catalog/view/theme/default/stylesheet/stylesheet.css" rel="stylesheet">
+
+<link href="catalog/view/javascript/jquery/swiper/css/swiper.min.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="catalog/view/javascript/jquery/swiper/css/opencart.css" type="text/css" rel="stylesheet" media="screen" />
+<script src="catalog/view/javascript/jquery/swiper/js/swiper.jquery.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/common.js" type="text/javascript"></script>
+<link href="https://store.mffsystems.com/image/catalog/Asset 5@300x.png" rel="icon" />
+<link href="https://store.mffsystems.com" rel="canonical" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106022986-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106022986-5');
+</script>
+
+
+				<meta property="og:title" content="متجر المركز المتميز " >
+                <meta property="og:description" content="متجر المركز المتميز اول متجر إلكتروني لبيع منتجات الأمن الصناعي ، أنظمة الإنذار و الاطفاء ، كاميرات المراقبة ، مستلزمات الأمن الصناعي ، صيانة طفايات الحريق " >
+								<meta property="og:url" content="https://store.mffsystems.com/" >
+												<meta property="og:image" content="https://store.mffsystems.com/image/cache/catalog/MFF-WEB-300x300.png" >
+				<meta property="og:image:width" content="300" >
+				<meta property="og:image:height" content="300" >
+								<meta property="og:site_name" content="المركز المتميز" >
+				                <meta property="og:type" content="website" >
+                                
+<script type="application/ld+json">            
+{
+ "@context":"http://schema.org",
+ "@type":"Organization",
+ "url":"https://store.mffsystems.com/",
+ "logo":"https://store.mffsystems.com/image/catalog/MFF-WEB.png",
+ "potentialAction":[{
+   "@type":"SearchAction",
+   "target":"https://store.mffsystems.com/index.php?route=product/search&search={search_term_string}",
+   "query-input":"required name=search_term_string"
+ }],
+ "contactPoint":[{
+    "@type":"ContactPoint",
+    "telephone":"01099805193",
+    "contactType":"customer service"
+  }]
+}
+</script>
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="متجر المركز المتميز" />
+<meta property="og:title" content="متجر المركز المتميز" />
+<meta property="og:description" content="متجر المركز المتميز اول متجر إلكتروني لبيع منتجات الأمن الصناعي ، أنظمة الإنذار و الاطفاء ، كاميرات المراقبة ، مستلزمات الأمن الصناعي ، صيانة طفايات الحريق" />
+<meta property="og:url" content="https://store.mffsystems.com/" />
+<meta property="og:image" content="https://store.mffsystems.com/image/catalog/MFF-WEB.png" />
+<meta property="fb:app_id" content="2558951254387622" />
+
+</head>
+<body>
+<nav id="top">
+  <div class="container"><div class="pull-left">
+  <form action="https://store.mffsystems.com/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="form-currency">
+    <div class="btn-group">
+      <button class="btn btn-link dropdown-toggle" data-toggle="dropdown">                   <strong>ج.م</strong>        <span class="hidden-xs">العملة</span>&nbsp;<i class="fa fa-caret-down"></i></button>
+      <ul class="dropdown-menu">
+                        <li>
+          <button class="currency-select btn btn-link btn-block" type="button" name="USD">$ US Dollar</button>
+        </li>
+                                <li>
+          <button class="currency-select btn btn-link btn-block" type="button" name="EGP">ج.م جنية مصري</button>
+        </li>
+                      </ul>
+    </div>
+    <input type="hidden" name="code" value="" />
+    <input type="hidden" name="redirect" value="https://store.mffsystems.com" />
+  </form>
+</div>
+ 
+    <div class="pull-left">
+  <form action="https://store.mffsystems.com/index.php?route=common/language/language" method="post" enctype="multipart/form-data" id="form-language">
+    <div class="btn-group">
+      <button class="btn btn-link dropdown-toggle" data-toggle="dropdown">
+             
+      <img src="catalog/language/ar/ar.png" alt="عربي" title="عربي">
+                              <span class="hidden-xs">اللغة</span>&nbsp;<i class="fa fa-caret-down"></i></button>
+      <ul class="dropdown-menu">
+                <li>
+          <button class="btn btn-link btn-block language-select" type="button" name="ar"><img src="catalog/language/ar/ar.png" alt="عربي" title="عربي" /> عربي</button>
+        </li>
+                <li>
+          <button class="btn btn-link btn-block language-select" type="button" name="en-gb"><img src="catalog/language/en-gb/en-gb.png" alt="English" title="English" /> English</button>
+        </li>
+              </ul>
+    </div>
+    <input type="hidden" name="code" value="" />
+    <input type="hidden" name="redirect" value="https://store.mffsystems.com" />
+  </form>
+</div>
+
+    <div id="top-links" class="nav pull-right">
+      <ul class="list-inline">
+        <li><a href="https://store.mffsystems.com/index.php?route=information/contact"><i class="fa fa-phone"></i> <span>01099805193</span></a> </li>
+        <li class="dropdown user_acc"><a href="https://store.mffsystems.com/index.php?route=account/account" title="حسابي" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user "></i> <span>حسابي</span> <span class="caret"></span></a>
+          <ul class="dropdown-menu dropdown-menu-right">
+                        <li><a href="https://store.mffsystems.com/index.php?route=account/register">تسجيل جديد</a></li>
+            <li><a href="https://store.mffsystems.com/index.php?route=account/login">تسجيل الدخول</a></li>
+                      </ul>
+        </li>
+        <li class="hidden-xs"><a href="https://store.mffsystems.com/index.php?route=account/wishlist" id="wishlist-total" title="قائمة رغباتي (<span>0</span>)"><i class="fa fa-heart"></i> <span class="hidden-xs">قائمة رغباتي (<span>0</span>)</span></a></li>
+        <li class="hidden-xs"><a href="https://store.mffsystems.com/index.php?route=checkout/cart" title="سلة الشراء"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">سلة الشراء</span></a></li>
+        <li class="hidden-xs"><a href="https://store.mffsystems.com/index.php?route=checkout/checkout" title="إنهاء الطلب"><i class="fa fa-reply"></i> <span class="hidden-xs">إنهاء الطلب</span></a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<header id="site_header">
+  <div class="container">
+    <div class="row">
+      <div class=" col-xs-6 col-sm-4">
+        <div id="logo"><a href="https://store.mffsystems.com"><img src="
+                    https://store.mffsystems.com/image/catalog/MFF-WEB.png
+                " title="المركز المتميز" alt="المركز المتميز" class="img-responsive" /></a></div>
+      </div>
+      <div class="col-xs-12 col-sm-5"><div id="search" class="input-group">
+  <input type="text" name="search" value="" placeholder="بحث" class="form-control input-lg" />
+  <span class="input-group-btn">
+    <button type="button" class="btn btn-default btn-lg"><i class="fa fa-search"></i></button>
+  </span>
+</div></div>
+      <div class="col-xs-6 col-sm-3 _cart">
+          <ul class="list-unstyled visible-xs-inline-block">
+            <li><a href="https://store.mffsystems.com/index.php?route=account/wishlist" id="wishlist-total" title="قائمة رغباتي (<span>0</span>)"><i class="fa fa-heart"></i> قائمة رغباتي (<span>0</span>)</a></li>
+          </ul>
+          
+          <div id="cart" class="btn-group btn-block">
+  <button type="button" data-toggle="dropdown" class="btn btn-inverse btn-block btn-lg dropdown-toggle"><i class="fa fa-shopping-cart"></i> <span id="cart-total">0 <span> منتجات -  0ج.م</span></span></button>
+  <ul class="dropdown-menu pull-right">
+        <li>
+      <p class="text-center">سلة الشراء فارغة !</p>
+    </li>
+      </ul>
+</div>
+
+          
+          <button type="button" onclick="openNav()" class="btn btn-navbar navbar-toggle visible-xs-inline-block"><i class="fa fa-bars"></i></button>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="container">
+  <nav id="menu" class="navbar">
+      <a href="javascript:void(0)" class="closebtn visible-xs-block" onclick="closeNav()">&times;</a>
+    <div>
+      <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href="https://store.mffsystems.com/اجهزة-اطفاء-الحريق" class="dropdown-toggle" data-toggle="dropdown">اجهزة اطفاء الحريق <span class="caret visible-xs-block"></span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner">               <ul class="list-unstyled">
+                                <li><a href="https://store.mffsystems.com/طفايات-بودرة">طفايات بودرة (8)</a></li>
+                                <li><a href="https://store.mffsystems.com/طفايات-حريق-كربون">طفايات حريق كربون (1)</a></li>
+                                <li><a href="https://store.mffsystems.com/طفايات-رغوي">طفايات رغوي (1)</a></li>
+                              </ul>
+              </div>
+            <a href="https://store.mffsystems.com/اجهزة-اطفاء-الحريق" class="see-all">عرض الكل اجهزة اطفاء الحريق</a> </div>
+        </li>
+                                <li><a href="https://store.mffsystems.com/انظمة-انذار-الحريق">انظمة انذار الحريق</a></li>
+                                <li><a href="https://store.mffsystems.com/انظمة-اطفاء-الحريق">انظمة اطفاء الحريق</a></li>
+                                <li><a href="https://store.mffsystems.com/مهمات-الامن-الصناعي">مهمات الامن الصناعي</a></li>
+                                <li><a href="https://store.mffsystems.com/كاميرات-المراقبة">كاميرات المراقبة</a></li>
+                                <li><a href="https://store.mffsystems.com/احتياجات-صناعية">احتياجات صناعية</a></li>
+                      </ul>
+    </div>
+  </nav>
+</div>
+ 
+
+ <!-- Starting Loading Screen 
+<div class="screen_loading">
+    <div>
+        <img src="catalog/view/theme/default/image/logo_icon.png" alt="" />
+        <div class="spinner">
+          <div class="dot1"></div>
+          <div class="dot2"></div>
+        </div>
+    </div>
+</div>
+ Ending Loading Screen --> 
+<div id="common-home" class="container">
+  <div class="row">
+                <div id="content" class="col-sm-12"><div class="main_slider">
+<div class="swiper-viewport">
+  <div id="slideshow0" class="swiper-container">
+    <div class="swiper-wrapper">       <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/banner/FaceMaskAr-1140x380.png" alt="بجانبك في مواجهة الخطر" class="img-responsive" /></a></div>
+            <div class="swiper-slide text-center"><a href="https://store.mffsystems.com/index.php?route=information/contact"><img src="https://store.mffsystems.com/image/cache/catalog/banner/extinguisher-Refill-1140x380.png" alt="صيانة طفايات الحريق" class="img-responsive" /></a></div>
+            <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/banner/fire-mffsystems-min-1140x380.png" alt="مكافة الحرائق" class="img-responsive" /></a></div>
+            <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/banner/Pump-min-1140x380.png" alt="طلمبات حريق" class="img-responsive" /></a></div>
+       </div>
+  </div>
+  <div class="swiper-pagination slideshow0"></div>
+  <div class="swiper-pager">
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+</div>
+</div>
+<script type="text/javascript"><!--
+$('#slideshow0').swiper({
+	mode: 'horizontal',
+	slidesPerView: 1,
+	pagination: '.slideshow0',
+	paginationClickable: true,
+	nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+    spaceBetween: 30,
+	autoplay: 2500,
+    autoplayDisableOnInteraction: true,
+	loop: true
+});
+--></script>
+<div class="latests_prodcts products-swiper p-40">
+<h3>أضيف <span>مؤخراً</span></h3>
+<div class="swiper-viewport">
+  <div id="latests_prodcts" class="swiper-container">
+    <div class="swiper-wrapper">  <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/نظارة-حماية-للعين-محكمة-الغلق-نظارة"><img src="https://store.mffsystems.com/image/cache/catalog/glasses/نظارة-حماية-للعين-محكمة-الغلقنظارة-81-200x200.PNG" alt="نظارة حماية للعين محكمة الغلق" title="نظارة حماية للعين محكمة الغلق" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/نظارة-حماية-للعين-محكمة-الغلق-نظارة">نظارة حماية للعين محكمة الغلق</a></h4>
+        <p>نظارة حماية للعين محكمة الغلق..</p>
+                        <p class="price">           70ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 70ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('81');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('81');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('81');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/خرطوشة-شحم-غذائي-ابيض-200-درجة-مئوية-من-يو-او-بي-شحم-غذائي"><img src="https://store.mffsystems.com/image/cache/catalog/elkomy/خرطوشة-شحم-غذائي-ابيض-200-درجة-مئوية-من-يو-او-بيشحم-غذائي-80-200x200.jpg" alt="خرطوشة شحم غذائي ابيض 200 درجة مئوية من يو او بي" title="خرطوشة شحم غذائي ابيض 200 درجة مئوية من يو او بي" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/خرطوشة-شحم-غذائي-ابيض-200-درجة-مئوية-من-يو-او-بي-شحم-غذائي">خرطوشة شحم غذائي ابيض 200 درجة مئوية من يو او بي</a></h4>
+        <p>خرطوشة شحم غذائي 200 درجة مئوية من يو او بيخرطوشة شحم تتحمل حرارة من -10 الي +200 درجة مئوية&nbsp;ال..</p>
+                <div class="rating">           <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>           </div>
+                        <p class="price">           250ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 250ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('80');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('80');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('80');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/اسبراي-سليكون-متعدد-الإستخدام-هارديكس-اسبراي"><img src="https://store.mffsystems.com/image/cache/catalog/elkomy/اسبراي-سليكون-متعدد-الإستخدام-هارديكساسبراي-79-200x200.jpg" alt="اسبراي سليكون متعدد الإستخدام هارديكس" title="اسبراي سليكون متعدد الإستخدام هارديكس" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/اسبراي-سليكون-متعدد-الإستخدام-هارديكس-اسبراي">اسبراي سليكون متعدد الإستخدام هارديكس</a></h4>
+        <p>اسبراي سليكون متعدد الإستخدام هارديكسعبوة 400 مليالإستخدام :- مانع إلتصاق فى اسطمبات البلاستيك- سهول..</p>
+                <div class="rating">           <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>           </div>
+                        <p class="price">           65ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 65ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('79');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('79');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('79');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/اسبراي-متعدد-الاستخدام-مذيب-صدأ-wd-40-مذيب-صدأ"><img src="https://store.mffsystems.com/image/cache/catalog/elkomy/اسبراي-متعدد-الاستخدام-مذيب-صدأ-wd-40مذيب-صدأ-78-200x200.jpg" alt="اسبراي متعدد الاستخدام مذيب صدأ WD 40" title="اسبراي متعدد الاستخدام مذيب صدأ WD 40" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/اسبراي-متعدد-الاستخدام-مذيب-صدأ-wd-40-مذيب-صدأ">اسبراي متعدد الاستخدام مذيب صدأ WD 40</a></h4>
+        <p>اسبراي متعدد الاستخدام مذيب صدأ WD 40 عبوة 330 ملي..</p>
+                <div class="rating">           <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>           </div>
+                        <p class="price">           65ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 65ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('78');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('78');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('78');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/فيست-4-عاكس-سوستة-فيست-cmc"><img src="https://store.mffsystems.com/image/cache/catalog/vest/فيست-4-عاكس-سوستةفيست-77-200x200.jpg" alt="فيست 4 عاكس سوستة" title="فيست 4 عاكس سوستة" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/فيست-4-عاكس-سوستة-فيست-cmc">فيست 4 عاكس سوستة</a></h4>
+        <p>فيست 4 عاكس سوستة - فيس مرور - فيست مهندسين..</p>
+                        <p class="price">           35ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 35ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('77');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('77');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('77');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/فيست-4-عاكس-فيست-cmc"><img src="https://store.mffsystems.com/image/cache/catalog/vest/فيست-4-عاكسفيست-76-200x200.jpg" alt="فيست 4 عاكس" title="فيست 4 عاكس" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/فيست-4-عاكس-فيست-cmc">فيست 4 عاكس</a></h4>
+        <p>فيست 4 عاكس - فيست مرور - فيس مهندسين..</p>
+                        <p class="price">           30ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 30ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('76');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('76');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('76');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/فيست-2-عاكس-فيست-cmc"><img src="https://store.mffsystems.com/image/cache/catalog/vest/فيست-2-عاكسفيست-75-200x200.jpg" alt="فيست 2 عاكس" title="فيست 2 عاكس" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/فيست-2-عاكس-فيست-cmc">فيست 2 عاكس</a></h4>
+        <p>فيست 2 عاكس - فيست مرور - فيس مهندسين..</p>
+                        <p class="price">           25ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 25ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('75');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('75');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('75');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/جوانتي-الكترونيات-جوانتي-cmc"><img src="https://store.mffsystems.com/image/cache/catalog/gloves/جوانتي-الكترونياتجوانتي-74-200x200.jpg" alt="جوانتي الكترونيات" title="جوانتي الكترونيات" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/جوانتي-الكترونيات-جوانتي-cmc">جوانتي الكترونيات</a></h4>
+        <p>جوانتي الكترونيات - قفاز الكترونيات..</p>
+                        <p class="price">           18ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 18ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('74');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('74');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('74');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+   </div>
+  </div>
+  <div class="swiper-pagination latests_prodcts_carousel"></div>
+  <div class="swiper-pager">
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+  </div>
+  </div>
+  
+<script type="text/javascript"><!--
+$('#latests_prodcts').swiper({
+	mode: 'horizontal',
+	spaceBetween: 30,
+	slidesPerView: 4,
+	pagination: '.latests_prodcts_carousel',
+	paginationClickable: true,
+	nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+	autoplay: 2500,
+	loop: true,
+	breakpoints: {
+        576: {
+          slidesPerView: 2,
+          spaceBetween: 15
+        },
+        992: {
+          slidesPerView: 3
+          }
+      }
+});
+--></script>
+
+<div class="featured_prodcts products-swiper p-40">
+<h3>منتجات <span>مميزة</span></h3>
+<div class="swiper-viewport">
+  <div id="featured_prodcts" class="swiper-container">
+    <div class="swiper-wrapper">  <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/طفاية-حريق-1-كيلو-بافاريا-تيجرا-أوبتيما-للسيارات-تيجرا-أوبتيما-بافاريا"><img src="https://store.mffsystems.com/image/cache/catalog/extinguishers/طفاية-حريق-1-كيلو-بافاريا-تيجرا-أوبتيما-للسياراتتيجرا-أوبتيما-43-200x200.png" alt="طفاية حريق 1 كيلو بافاريا تيجرا أوبتيما للسيارات" title="طفاية حريق 1 كيلو بافاريا تيجرا أوبتيما للسيارات" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/طفاية-حريق-1-كيلو-بافاريا-تيجرا-أوبتيما-للسيارات-تيجرا-أوبتيما-بافاريا">طفاية حريق 1 كيلو بافاريا تيجرا أوبتيما للسيارات</a></h4>
+        <p>جهاز الإطفاء طراز تيجرا اوبتميا سعــة 1 كجم مثالى للوقاية من أخطار الحريـق فى السيارات الخاصة الصغير..</p>
+                <div class="rating">           <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>           </div>
+                        <p class="price">           449ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 449ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('43');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('43');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('43');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/كمامة-ورقية-موديل-8511-n95-من-شركة-ثري-ام-كمامة-ورقية"><img src="https://store.mffsystems.com/image/cache/catalog/3M-Respirator/كمامة-ورقية-موديل-8511-n95-من-شركة-ثري-امكمامة-ورقية-50-200x200.jpeg" alt="كمامة ورقية موديل 8511 N95 من شركة ثري ام" title="كمامة ورقية موديل 8511 N95 من شركة ثري ام" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/كمامة-ورقية-موديل-8511-n95-من-شركة-ثري-ام-كمامة-ورقية">كمامة ورقية موديل 8511 N95 من شركة ثري ام</a></h4>
+        <p>..</p>
+                <div class="rating">           <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>           </div>
+                        <p class="price">           165ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 165ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('50');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('50');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('50');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/فيس-ماسك-يوني-كير-بروابط-مطاطية-صندوق-يحتوي-50-قطعة-فيس-ماسك-يوني-كير"><img src="https://store.mffsystems.com/image/cache/catalog/unicare/فيس-ماسك-يوني-كير-بروابط-مطاطية-صندوق-يحتوي-50-قطعةفيس-ماسك-59-200x200.jpg" alt="فيس ماسك يوني كير بروابط مطاطية صندوق يحتوي 50 قطعة" title="فيس ماسك يوني كير بروابط مطاطية صندوق يحتوي 50 قطعة" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/فيس-ماسك-يوني-كير-بروابط-مطاطية-صندوق-يحتوي-50-قطعة-فيس-ماسك-يوني-كير">فيس ماسك يوني كير بروابط مطاطية صندوق يحتوي 50 قطعة</a></h4>
+        <p>فيس ماسك&nbsp;يوني كير استيك- 3 طبقات- مانع لتسريب المياة- التراسونك- كبس حراري- حاصل علي شهادة ايزو..</p>
+                <div class="rating">           <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>           </div>
+                        <p class="price">           100ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 100ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('59');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('59');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('59');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+    <div class="product-layout swiper-slide">
+    <div class="product-thumb transition">
+      <div class="image"><a href="https://store.mffsystems.com/فيس-ماسك-الصفا-كمامة-شركة-الصفا-فيس-ماسك-الصفا"><img src="https://store.mffsystems.com/image/cache/catalog/Safaiso/فيس-ماسك-الصفا-كمامة-شركة-الصفافيس-ماسك-64-200x200.jpg" alt="فيس ماسك الصفا كمامة شركة الصفا" title="فيس ماسك الصفا كمامة شركة الصفا" class="img-responsive" /></a></div>
+      <div class="caption">
+        <h4><a href="https://store.mffsystems.com/فيس-ماسك-الصفا-كمامة-شركة-الصفا-فيس-ماسك-الصفا">فيس ماسك الصفا كمامة شركة الصفا</a></h4>
+        <p>فيس ماسك الصفا كمامة شركة الصفا- حاصلة علي الايزو- 3 طبقات- استيك مريح- مانع لتسريب المياه..</p>
+                <div class="rating">           <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>                      <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>           </div>
+                        <p class="price">           260ج.م
+                     <span class="price-tax">السعر بدون الضريبة: 260ج.م</span>  </p>
+         </div>
+      <div class="button-group">
+        <button type="button" onclick="cart.add('64');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">اضافة للسلة</span></button>
+        <button type="button" data-toggle="tooltip" title="إضافة لرغباتي" onclick="wishlist.add('64');"><i class="fa fa-heart"></i></button>
+        <button type="button" data-toggle="tooltip" title="اضافة للمقارنة" onclick="compare.add('64');"><i class="fa fa-exchange"></i></button>
+      </div>
+    </div>
+  </div>
+   </div>
+  </div>
+  <div class="swiper-pagination featured_prodcts_carousel"></div>
+  <div class="swiper-pager">
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+  </div>
+</div>
+  <script type="text/javascript"><!--
+$('#featured_prodcts').swiper({
+	mode: 'horizontal',
+	spaceBetween: 30,
+	slidesPerView: 4,
+	pagination: '.featured_prodcts_carousel',
+	paginationClickable: true,
+	nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+	autoplay: 2500,
+	loop: true,
+	breakpoints: {
+        576: {
+          slidesPerView: 2,
+          spaceBetween: 15
+        },
+        992: {
+          slidesPerView: 3
+          }
+      }
+});
+--></script>
+<div class="common-swiper p-40">
+<div class="swiper-viewport">
+  <div id="carousel0" class="swiper-container">
+    <div class="swiper-wrapper">      <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/company/wr_nfpa_logo_21389-130x100.jpg" alt="NFPA" class="img-responsive center-block" /></a></div>
+            <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/company/bavaria-logo1-130x100.png" alt="بافاريا" class="img-responsive center-block" /></a></div>
+            <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/company/LED-Lamps-and-UL-Certifications-UL-Logo-130x100.png" alt="UL" class="img-responsive center-block" /></a></div>
+            <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/company/fm_approved_79536-130x100.jpg" alt="FM" class="img-responsive center-block" /></a></div>
+            <div class="swiper-slide text-center"><a href="#"><img src="https://store.mffsystems.com/image/cache/catalog/company/Helwan_Co_For_Engineering_Industries_logo-130x100.png" alt="مصانع حربية" class="img-responsive center-block" /></a></div>
+      </div>
+  </div>
+</div>
+</div>
+<script type="text/javascript"><!--
+$('#carousel0').swiper({
+	mode: 'horizontal',
+	slidesPerView: 5,
+	pagination: '.carousel0',
+	paginationClickable: true,
+	nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+	autoplay: 2500,
+	loop: true,
+	breakpoints: {
+    576: {
+      slidesPerView: 3,
+      spaceBetween: 15
+    },
+    992: {
+      slidesPerView: 4
+      }
+  }
+});
+--></script>
+</div>
+    </div>
+</div>
+<footer>
+  <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-9 footer_links">
+            <div class="row">
+                            <div class="col-xs-6 col-sm-3">
+                <h5>معلومات</h5>
+                <ul class="list-unstyled">
+                                   <li><a href="https://store.mffsystems.com/من-نحن">من نحن</a></li>
+                                    <li><a href="https://store.mffsystems.com/معلومات-الشحن-والتوصيل">معلومات الشحن والتوصيل</a></li>
+                                    <li><a href="https://store.mffsystems.com/سياسة-الخصوصية">سياسة الخصوصية</a></li>
+                                    <li><a href="https://store.mffsystems.com/شروط-الاستخدام">شروط الاستخدام</a></li>
+                                  </ul>
+              </div>
+                            <div class="col-xs-6 col-sm-3">
+                <h5>خدمات العملاء</h5>
+                <ul class="list-unstyled">
+                  <li><a href="https://store.mffsystems.com/index.php?route=information/contact">اتصل بنا</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=account/return/add">إرجاع الطلب</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=information/sitemap">خريطة الموقع</a></li>
+                </ul>
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <h5>إضافات</h5>
+                <ul class="list-unstyled">
+                  <li><a href="https://store.mffsystems.com/index.php?route=product/manufacturer">الشركات</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=account/voucher">قسائم الهدايا</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=affiliate/login">نظام العمولة</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=product/special">العروض المميزة</a></li>
+                </ul>
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <h5>حسابي</h5>
+                <ul class="list-unstyled">
+                  <li><a href="https://store.mffsystems.com/index.php?route=account/account">حسابي</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=account/order">طلباتي</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=account/wishlist">قائمة رغباتي</a></li>
+                  <li><a href="https://store.mffsystems.com/index.php?route=account/newsletter">القائمة البريدية</a></li>
+                </ul>
+              </div>
+        </div>
+      </div>
+      <div class="col-sm-3 hidden-xs">
+          <div class="footer_logo"><a href=""><img src="
+                    https://store.mffsystems.com/image/catalog/MFF-WEB.png
+                " title="المركز المتميز" alt="المركز المتميز" class="img-responsive" /></a></div>
+         
+      </div>
+    </div>
+  </div>
+  <p class="copy_right text-center">جميع الحقوق محفوظة 2020 &copy; المركز المتميز</p>
+</footer>
+<script src="catalog/view/theme/default/js/custom.js" type="text/javascript"></script>
+<script src="catalog/view/theme/default/js/custom-ar.js" type="text/javascript"></script>
+<script src="catalog/view/theme/default/js/jquery.fancybox.min.js" type="text/javascript"></script>
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+<!--
+هذا السكربت مفتوح المصدر ولك الحرية لحذف عبارة الدعم والترجمة اذا اردت ذلك
+واذا أعجبك عمل فريق الترجمة إلى اللغة العربية يمكنك التبرع بأي مبلغ عن طريق باي بال إلى
+info@opencartarab.com
+//-->
+
+  <div id="btnwhatsapp" style="position: fixed; z-index: 999;right: 20px; bottom: 20px;">
+      <a href="https://wa.me/201099805193/?text=أستفسار بخصوص المنتج" title="تواصل معنا عبر الواتساب" target="_blank" style="width: 60px; height: 60px;background-color: #2cb742;color: #fff;border-radius: 35px;-webkit-border-radius: 35px;-moz-border-radius: 35px;display: table-cell;vertical-align: middle;text-align: center;box-shadow: 0 0 25px rgba(0,0,0,0.4);-webkit-box-shadow: 0 0 25px rgba(0,0,0,0.4);"><i style="font-size: 2.5em !important;" class="fa fa-whatsapp"></i></a>
+  </div>
+				
+</body></html>

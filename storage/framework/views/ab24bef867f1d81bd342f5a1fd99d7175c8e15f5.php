@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo e(asset('themes/default/assets/css/bulk-admin.css')); ?>"><?php /**PATH /var/www/vhosts/hab.mobi/httpdocs/packages/Webkul/Bulkupload/src/Providers/../Resources/views/admin/bulk-upload/style.blade.php ENDPATH**/ ?>
