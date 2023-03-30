@@ -1,1 +1,0 @@
-<link rel="stylesheet" href="<?php echo e(asset('themes/velocity/assets/css/velocity-admin.css')); ?>"><?php /**PATH /var/www/vhosts/hab.mobi/httpdocs/packages/Webkul/Velocity/src/Providers/../Resources/views/admin/layouts/style.blade.php ENDPATH**/ ?>

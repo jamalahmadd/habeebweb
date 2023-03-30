@@ -1,1 +1,0 @@
-<link rel="stylesheet" href="<?php echo e(asset('themes/default/assets/css/admin.css')); ?>"><?php /**PATH /var/www/vhosts/hab.mobi/httpdocs/packages/Webkul/Widgets/src/Providers/../Resources/views/admin/layouts/style.blade.php ENDPATH**/ ?>
